@@ -23,6 +23,7 @@
     align-items: center;
     border-radius: 20px;
     box-shadow: 10px 10px 20px grey;
+    border: 10px;
 }
 .h{
 	font-family: Arial Black;
@@ -35,5 +36,13 @@
 	text-decoration-color: white;
 	text-shadow: whitesmoke;
 	text-align: center;
+	text-size-adjust: 50px;
+	font-size: 50px;
+
+}
+.hour{
+	text-decoration-color: white;
+	text-shadow: whitesmoke;
+	color: white;
 
 }
